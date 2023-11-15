@@ -29,11 +29,3 @@ If you do not have Python installed yet, it is highly recommended that you insta
 Data Set Used(Given Data Sets are only for reference you may take any dataset of your choice):
 - https://www.kaggle.com/datasets/fedesoriano/air-quality-data-in-india
 - https://www.kaggle.com/datasets/prosperchuks/amazonsatelliteimages
-
-**Features**
-1.  `RM`: average number of rooms per dwelling
-2. `LSTAT`: percentage of population considered lower status
-3. `PTRATIO`: pupil-teacher ratio by town
-
-**Target Variable**
-4. `MEDV`: median value of owner-occupied homes
