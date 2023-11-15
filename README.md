@@ -20,8 +20,8 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Run
 - CLone the [repository](https://github.com/Rutiktorambe/Air-X.git)
-- Run the [Air Quality Index using RF.ipynb] File
-- Run [App.py]
+- Run the Air Quality Index using RF.ipynb File
+- Run App.py
 - Follow Generated link
 
 ### Data
